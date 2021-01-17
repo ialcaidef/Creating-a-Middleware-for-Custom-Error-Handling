@@ -166,4 +166,9 @@
     https://localhost:5001/api/passenger/5
     ```
 
+![20487D_Images](https://github.com/ialcaidef/The-ASP.NET-Core-Request-Pipeline/blob/master/Images/02.png)
+
 26. Click the URL, and then verify that that the result column shows **404**.
+
+![20487D_Images](https://github.com/ialcaidef/The-ASP.NET-Core-Request-Pipeline/blob/master/Images/01.png)
+
