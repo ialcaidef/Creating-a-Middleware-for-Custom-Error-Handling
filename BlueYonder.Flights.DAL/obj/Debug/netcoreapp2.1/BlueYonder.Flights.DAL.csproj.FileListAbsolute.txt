@@ -1,0 +1,9 @@
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod04\DemoFiles\ErrorHandlingMiddleware\Starter\BlueYonder.Flights.DAL\bin\Debug\netcoreapp2.1\BlueYonder.Flights.DAL.deps.json
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod04\DemoFiles\ErrorHandlingMiddleware\Starter\BlueYonder.Flights.DAL\bin\Debug\netcoreapp2.1\BlueYonder.Flights.DAL.dll
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod04\DemoFiles\ErrorHandlingMiddleware\Starter\BlueYonder.Flights.DAL\bin\Debug\netcoreapp2.1\BlueYonder.Flights.DAL.pdb
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod04\DemoFiles\ErrorHandlingMiddleware\Starter\BlueYonder.Flights.DAL\obj\Debug\netcoreapp2.1\BlueYonder.Flights.DAL.csprojAssemblyReference.cache
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod04\DemoFiles\ErrorHandlingMiddleware\Starter\BlueYonder.Flights.DAL\obj\Debug\netcoreapp2.1\BlueYonder.Flights.DAL.AssemblyInfoInputs.cache
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod04\DemoFiles\ErrorHandlingMiddleware\Starter\BlueYonder.Flights.DAL\obj\Debug\netcoreapp2.1\BlueYonder.Flights.DAL.AssemblyInfo.cs
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod04\DemoFiles\ErrorHandlingMiddleware\Starter\BlueYonder.Flights.DAL\obj\Debug\netcoreapp2.1\BlueYonder.Flights.DAL.csproj.CoreCompileInputs.cache
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod04\DemoFiles\ErrorHandlingMiddleware\Starter\BlueYonder.Flights.DAL\obj\Debug\netcoreapp2.1\BlueYonder.Flights.DAL.dll
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod04\DemoFiles\ErrorHandlingMiddleware\Starter\BlueYonder.Flights.DAL\obj\Debug\netcoreapp2.1\BlueYonder.Flights.DAL.pdb
